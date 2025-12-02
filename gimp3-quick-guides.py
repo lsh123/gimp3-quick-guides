@@ -209,7 +209,7 @@ class Gimp3QuickGuides (Gimp.PlugIn):
       procedure.set_sensitivity_mask (Gimp.ProcedureSensitivityMask.DRAWABLE |
                                       Gimp.ProcedureSensitivityMask.NO_DRAWABLES)
       procedure.set_menu_label("Quick _Guides")
-      procedure.add_menu_path ("<Image>/_Aleksey Plugins")
+      procedure.add_menu_path ("<Image>/Image/Guides/")
 
       procedure.set_attribution("Alekjsey", "Aleksey", "2025")
       procedure.set_documentation ("Quick guides configuration", None)
