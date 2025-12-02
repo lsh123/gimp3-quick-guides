@@ -43,4 +43,9 @@ A Python plugin for GIMP 3.0+ that provides quick guides configuration
 ## Usage:
 
 The plugin is available in the menu bar or the image context menu "Image" > "Guides" > "Quick Guides".
-The horizontal and vertical guides would be added / deleted basd on comma separated lists.
+The horizontal and vertical guides would be added / deleted basd on comma separated lists:
+
+
+![Quick Guides menu](assets/menu.png)
+
+![Quick Guides dialog](images/dialog.png)
