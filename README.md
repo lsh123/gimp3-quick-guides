@@ -48,4 +48,4 @@ The horizontal and vertical guides would be added / deleted basd on comma separa
 
 ![Quick Guides menu](assets/menu.png)
 
-![Quick Guides dialog](images/dialog.png)
+![Quick Guides dialog](assets/dialog.png)
