@@ -208,7 +208,7 @@ class Gimp3QuickGuides (Gimp.PlugIn):
       procedure.set_image_types("*")
       procedure.set_sensitivity_mask (Gimp.ProcedureSensitivityMask.DRAWABLE |
                                       Gimp.ProcedureSensitivityMask.NO_DRAWABLES)
-      procedure.set_menu_label("Quick _Guides")
+      procedure.set_menu_label("Quick _Guides...")
       procedure.add_menu_path ("<Image>/Image/Guides/")
 
       procedure.set_attribution("Alekjsey", "Aleksey", "2025")
